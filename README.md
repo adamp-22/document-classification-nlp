@@ -59,5 +59,4 @@ The goal is to build a clean, reproducible NLP pipeline that demonstrates how bo
 ## 👤 Author and Creation Date 
 
 **Adam Parkanyi**  
-Machine Learning & NLP Enthusiast  
 
