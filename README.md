@@ -2,8 +2,6 @@
 
 > 🗓️ **Project originally created on: January 14, 2024**
 
-# 📘 Document Classification with PyTorch and BERT
-
 This project explores two approaches to classifying humanitarian text documents into categories such as health, education, protection, and more. The dataset used is a real-world collection released by the DEEP project, focusing on international humanitarian response efforts.
 
 I implement and compare two models:
